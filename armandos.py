@@ -1,0 +1,2 @@
+def myMethod(request):
+    pass
